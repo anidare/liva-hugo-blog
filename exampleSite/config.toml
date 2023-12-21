@@ -86,7 +86,7 @@ author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
+mobile = "+91 9769987165"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
@@ -95,11 +95,11 @@ copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-
 # Preloader
 [params.preloader]
 enable = true
-preloader = "" # use .png , .svg or .gif format
+preloader = "images/logo.png" # use .png , .svg or .gif format
 
 # search
 [params.search]
-enable = true
+enable = false
 
 ############################ news letter ########################
 [params.newsletter]
